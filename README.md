@@ -32,7 +32,7 @@ One of the standout features of this project is the dynamic linear chat and pie 
 ## Installation
 
 To install and run this React project, follow the steps below:
-- git clone ![Clone Repo](https://github.com/03prashantpk/listedAssignment.git) `https://github.com/03prashantpk/listedAssignment.git`
+- git clone ![Clone Repo](https://github.com/venkatsaipalla/Listing-react-dashboard.git) `https://github.com/venkatsaipalla/Listing-react-dashboard.git`
 - Go to the folder and install dependencies with: `yarn install` or `npm install`
 - Run the app with `yarn start` or `npm start`
 
