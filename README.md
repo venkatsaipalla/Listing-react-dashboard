@@ -2,7 +2,7 @@
 
 ## Live Link
 
-- Project Live Link 1: [Live Demo - vercel.app](https://listed-assignment-navy.vercel.app/)
+- Project Live Link 1: [Live Demo - vercel.app](https://listing-react-dashboard.vercel.app/)
 ReactJs Dashboard with Google Auth Sign-in/Sign-up feature.
 
 ## Project Description
