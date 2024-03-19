@@ -1,5 +1,8 @@
 # React Js Dashboard - Responsive
 
+## Live Link
+
+- Project Live Link 1: [Live Demo - vercel.app](https://listed-assignment-navy.vercel.app/)
 ReactJs Dashboard with Google Auth Sign-in/Sign-up feature.
 
 ## Project Description
@@ -23,10 +26,6 @@ One of the standout features of this project is the dynamic linear chat and pie 
 ![Project Demo](https://github.com/03prashantpk/listedAssignment/blob/master/public/screenshot2.gif.gif)
 
 > Project Demo
-
-## Live Link
-
-- Project Live Link 1: [Live Demo - vercel.app](https://listed-assignment-navy.vercel.app/)
 
 
 ## Installation
